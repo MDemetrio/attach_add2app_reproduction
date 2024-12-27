@@ -1,0 +1,7 @@
+.DS_Store
+*xcuserdata/*
+*DS_Store*
+builds/*
+MyHostApp/MyHostApp.xcodeproj/project.xcworkspace/xcuserdata*
+MyHostApp/MyHostApp.xcodeproj/xcuserdata*
+MyHostApp/MyHostApp.xcworkspace/xcuserdata*
